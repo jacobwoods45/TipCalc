@@ -1,0 +1,25 @@
+body{
+  
+  font-family: 'Raleway', sans-serif;
+  color: rgb(37, 37, 37);
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(91,148,217,1) 100%);
+}
+.box-1{
+  background-color: #ffffff63;
+  padding:25px;
+  border: #0f0f0f;
+  border-radius: 20px ;
+  width: 50%;
+  height: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25%;
+  text-align: center;
+}
+.titleCard h1{
+  text-align:center;
+  margin-top: 10%;
+  color: white;
+  font-size: 4em;
+}
